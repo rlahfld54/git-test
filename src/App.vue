@@ -13,9 +13,6 @@ import TheWelcome from './components/TheWelcome.vue'
   </header>
 
   <main>
-    <div>
-      <h1>원본</h1>
-    </div>
     <TheWelcome />
   </main>
 </template>
