@@ -13,6 +13,10 @@ import TheWelcome from './components/TheWelcome.vue'
   </header>
 
   <main>
+    <div>
+      <h1>황주은</h1>
+      <h2>10월25일</h2>
+    </div>
     <TheWelcome />
   </main>
 </template>
